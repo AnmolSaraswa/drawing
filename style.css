@@ -1,0 +1,30 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    font-family: Algerian;
+    margin: 0px;
+    box-shadow: 10px 10px 10px gold;
+}
+
+.note {
+    font-size: 12px;
+    font-family: Algerian;
+    color: green;
+}
+
+#copyright_footer {
+    position: fixed;
+    color: azure;
+    font-family: Elephant;
+    background-color: brown;
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+    bottom: 0;
+}
+
+canvas {
+    background-color: aquamarine;
+    color: black;
+    box-shadow: 10px 10px 10px green;
+}
